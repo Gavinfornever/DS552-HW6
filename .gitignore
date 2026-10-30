@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Homework 6 Data.zip
+Homework6.pdf
+Last_First_HW6.ipynb
+HW6_print_check.html
+HW6_print_check.pdf
